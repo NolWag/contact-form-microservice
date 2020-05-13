@@ -1,0 +1,11 @@
+{
+  "name": "contact-form-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NolWag/contact-form-service",
+  "author": "Nolan Wagner <Nolandubyu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.669.0"
+  }
+}
