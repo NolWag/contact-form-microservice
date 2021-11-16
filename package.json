@@ -6,6 +6,6 @@
   "author": "Nolan Wagner <Nolandubyu@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.669.0"
+    "aws-sdk": "^2.814.0"
   }
 }
